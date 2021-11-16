@@ -8,7 +8,6 @@ Tech Blog is a blog website used to showcase Model-View-Controller programming. 
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Questions](#questions)
 
 ## Installation
 Download the application and run:
@@ -34,5 +33,3 @@ npm install express-handlebars
 ## License
 E-commerce backend is licensed under the MIT License.
 
-## Questions
-If you have any question please check out my GitHub https://github.com/ortizjavier10 or email me at ortiz.javier10@gmail.com .
