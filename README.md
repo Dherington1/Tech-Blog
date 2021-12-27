@@ -3,11 +3,8 @@
 ## Description
 Tech Blog is a blog website used to showcase Model-View-Controller programming. Its free to sign up! just fill out the sign up form and start posting till your heart is content :) ! 
 
-
-## Table of Contents
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
+## Link 
+https://tech-blog321.herokuapp.com/
 
 ## Installation
 Download the application and run:
@@ -24,10 +21,6 @@ npm i express-session
 npm i connect-session-sequelize 
 npm install express-handlebars
 ```
-
-## Usage
-1. The app can be accessed at the link below:
-
 
 
 ## License
